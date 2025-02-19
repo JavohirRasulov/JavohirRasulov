@@ -17,7 +17,7 @@
 📧 Email: [rasulovjavohir0406@gmail.com]  
 🔗 GitHub: [JavohirRasulov](https://github.com/JavohirRasulov)  
 💼 LinkedIn: [www.linkedin.com/in/rasulov-javohir]  
-📱 Telegram: [@raculof]  
+📱 Telegram: [https://@raculof]  
 
 > "Security is not just about technology; it's a mindset!" 🔐
 
